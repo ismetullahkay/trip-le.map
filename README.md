@@ -68,6 +68,7 @@ Uygulamada hata raporları detaylı olarak oluşturulmaktadır. Hatalar benzer y
 
 2.1.8 Firebase Notifications
 Mobil uygulama geliştiricileri için hedefli kullanıcı bildirimlerini etkinleştirir ve hizmetler ücretsiz olarak sunulmaktadır[9].
+
 Şekil1’de Firebase veri tabanından bir örnek gösterilmiştir.
 
 

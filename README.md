@@ -69,6 +69,9 @@ Uygulamada hata raporları detaylı olarak oluşturulmaktadır. Hatalar benzer y
 2.1.8 Firebase Notifications
 Mobil uygulama geliştiricileri için hedefli kullanıcı bildirimlerini etkinleştirir ve hizmetler ücretsiz olarak sunulmaktadır[9].
 
+![image](https://user-images.githubusercontent.com/116204008/213918134-089db319-944e-4768-8e1f-4fc540c79725.png)
+
+
 
 
 
@@ -107,6 +110,8 @@ Veri tabanı tasarımı oluştururken dikkat etmemiz gereken başlıca kurallar 
 Şekil1.’de gösterildiği gibi öncelikle mekan tablosu oluşturulup içerisine mekan bilgileri girilmesi için birincil anahtar olarak mekan_id’si tanımlanmıştır. Ardından sırayla lat (enlem), lon (boylam), mekan_adi ve puan tanımlanarak mekan tablosu tamamlanmıştır. Sonrasında yeni bir tablo ile rota tablosu oluşturulup rota bilgileri girilmesi için birincil anahtar olarak rota_id tanımlanmıştır. Ardından başlangıç noktasının koordinatları lat1, lon1 şeklinde tanımlanmıştır. Sonra bitiş koordinatları lat2, lon2 olarak tanımlanmıştır. Son tablomuz olan kullanıcı tablosuna birincil anahtar olarak kullanıcı_id tanımlanmıştır. Ardından kullanıcının giriş türünü belirlemek için identifier eklenmiştir. Daha sonra created (hesap oluşturma tarihi) ve sign_in (son giriş tarihi) eklenip veri tabanı tamamlanmıştır.
 
 Açıklanan veri tabanı modelinin tablo görünümü Şekil2’de gösterilmiştir.
+![image](https://user-images.githubusercontent.com/116204008/213918186-90708db2-bf05-4571-94dd-99b228209af3.png)
+
  
 Şekil2. Uygulama veri tabanı tablosu
 

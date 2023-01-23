@@ -2,8 +2,10 @@
 A travel app in flutter with Google Maps API
 
 The video of the application is in the link: https://youtu.be/LFtXXIyajzY
+Report link: https://docs.google.com/document/d/1GHWJdBdBszI1EDvDX1teV0eX_aXPrFL_/edit?usp=share_link&ouid=116815248123581661234&rtpof=true&sd=true
 
-The application's document is in the uygulamaraporu.docx file.
+
+The application's document is in the seyahat_uygulama_raporu.docx file.
 Trip-le Map.
 
 İsmetullah KAYIKÇI, Ahmet Nusret ASMA, Osman Hulisi YILMAZ
